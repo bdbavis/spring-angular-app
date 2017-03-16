@@ -1,4 +1,4 @@
-package tutorial.core.entities;
+package tutorial.core.model.entities;
 
 public class BlogEntry {
 	
